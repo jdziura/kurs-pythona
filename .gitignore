@@ -1,3 +1,6 @@
+# Data cached by the app from the internet
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
