@@ -1,6 +1,11 @@
 # Data cached by the app from the internet
 data/
 
+# Results of analysis
+heatmap.html
+heatmap_depots.html
+punctuality.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

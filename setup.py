@@ -20,6 +20,14 @@ setup(
     ],
     python_requires='>=3.10',
     install_requires=[
-        # TODO
+        'flake8==7.0.0',
+        'pytest==8.0.0',
+        'python-dotenv==1.0.0',
+        'requests==2.31.0',
+        'folium==0.15.1',
+        'tqdm==4.66.2',
+        'matplotlib==3.8.3',
+        'coverage==7.4.2',
+        'pandas==2.2.0',
     ],
 )
